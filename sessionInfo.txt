@@ -1,0 +1,22 @@
+R version 4.3.2 (2023-10-31)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 11
+
+Attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base
+
+Other attached packages:
+ [1] here_1.0.1          patchwork_1.2.0     kableExtra_1.3.4
+ [4] knitr_1.45          RColorBrewer_1.1-3  viridis_0.6.4
+ [7] viridisLite_0.4.2   ggplot2_3.4.4       spdep_1.3-1
+[10] spData_2.3.0        sf_1.0-14           car_3.1-2
+[13] carData_3.0-5       gamlss.dist_6.1-1   gamlss.add_5.0-3
+[16] gamlss_5.4-20       nlme_3.1-163        MASS_7.3-60
+[19] lubridate_1.9.3     forcats_1.0.0       stringr_1.5.1
+[22] dplyr_1.1.4         purrr_1.0.2         readr_2.1.4
+[25] tidyr_1.3.0         tibble_3.2.1        tidyverse_2.0.0
+
+NOTE: Exact package versions used in the manuscript analysis.
+Install via: install.packages(c("gamlss","gamlss.add","gamlss.dist","sf",
+"spdep","ggplot2","viridis","RColorBrewer","car","patchwork","knitr",
+"kableExtra","here","tidyverse"))

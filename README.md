@@ -57,8 +57,8 @@ from the respective data custodians.
 |---------|--------|--------|
 | Leptospirosis case records (2011-2024) | Kelantan State Health Department (eNotifikasi system) | Formal written request to Jabatan Kesihatan Negeri Kelantan |
 | Flood event reports (2011-2024) | Department of Irrigation and Drainage Malaysia (DID/JPS) | [https://www.water.gov.my](https://www.water.gov.my) |
-| Subdistrict boundary shapefile | Department of Statistics Malaysia (DOSM) | [https://open.dosm.gov.my](https://open.dosm.gov.my) |
-| Population data (2020 Census) | Department of Statistics Malaysia (DOSM) | [https://dosm.gov.my](https://open.dosm.gov.my) |
+| Subdistrict boundary shapefile | Department of Statistics Malaysia (DOSM) | [https://dosm.gov.my](https://dosm.gov.my) |
+| Population data (2020 Census) | Department of Statistics Malaysia (DOSM) | [https://dosm.gov.my](https://dosm.gov.my) |
 | Climate data (ERA5 reanalysis) | Copernicus Climate Change Service | [https://cds.climate.copernicus.eu](https://cds.climate.copernicus.eu) |
 
 Researchers seeking access to the leptospirosis surveillance data should direct formal requests to the Kelantan State Health Department, Kota Bharu, Kelantan, Malaysia. Flood event records may be requested via https://www.water.gov.my. Subdistrict boundary shapefiles are available for purchase from the Department of Statistics Malaysia (DOSM) at https://www.dosm.gov.my. Rainfall data may be requested from the Malaysian Meteorological Department (MetMalaysia) at https://www.met.gov.my, and fees may be applicable depending on eligibility. ERA5 climate data are freely accessible at https://cds.climate.copernicus.eu.
